@@ -1,10 +1,10 @@
-> Fork deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-# Titel
+# Visitekaartje
 
 ## Beschrijving
-<!-- Voeg een link toe naar Github Pages 🌐-->
-<!-- Voeg een mooie poster visual toe 📸 -->
+https://boudewijnbout.github.io/fdnd-visitekaartje-autonomous/
+
+<img width="1080" alt="Schermafbeelding 2021-09-10 om 11 17 04" src="https://user-images.githubusercontent.com/45170095/132831180-4f3ffeae-913d-4809-94c1-b9c7244546ae.png">
+
 
 ## Inhoudsopgave
 
