@@ -18,6 +18,12 @@ U bevindt zich nu in de repository van mijn visitekaartje. Dit visitekaartje is 
 
 ## Installatie
 
+1. `Clone` of `download` deze repository.
+
+2. Open het `index.html` bestand.
+
+3. U ziet nu in uw browser mijn visitekaartje!
+
 ## Gebruik
 
 ## Bronnen
