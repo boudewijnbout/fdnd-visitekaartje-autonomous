@@ -1,14 +1,12 @@
-# Visitekaartje
+# Visitekaartje van Boudewijn Bout
 
 ## Beschrijving
-https://boudewijnbout.github.io/fdnd-visitekaartje-autonomous/
 
-<img width="1080" alt="Schermafbeelding 2021-09-10 om 11 17 04" src="https://user-images.githubusercontent.com/45170095/132831180-4f3ffeae-913d-4809-94c1-b9c7244546ae.png">
+U bevindt zich nu in de repository van mijn visitekaartje. Dit visitekaartje is gemaakt met HTML, CSS en JavaScript. Ik maakte dit visitekaartje tijdens met opleiding op de HvA: Front-End Design & Development.
 
+<img width="750" alt="Schermafbeelding 2021-09-10 om 11 17 04" src="https://user-images.githubusercontent.com/45170095/132831180-4f3ffeae-913d-4809-94c1-b9c7244546ae.png">
 
-## Inhoudsopgave
-
-- [Titel](#titel)
+## 📚 Inhoudsopgave
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
   * [Installatie](#installatie)
