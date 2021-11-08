@@ -14,9 +14,9 @@ U bevindt zich nu in de repository van mijn visitekaartje. Dit visitekaartje is 
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
-## Kenmerken
+## ✅ Kenmerken
 
-## Installatie
+## 🖥️ Installatie
 
 1. `Clone` of `download` deze repository.
 
@@ -24,9 +24,9 @@ U bevindt zich nu in de repository van mijn visitekaartje. Dit visitekaartje is 
 
 3. U ziet nu in uw browser mijn visitekaartje!
 
-## Gebruik
+## 🖱️ Gebruik
 
-## Bronnen
+## 📰 Bronnen
 
 ## Licentie
 
