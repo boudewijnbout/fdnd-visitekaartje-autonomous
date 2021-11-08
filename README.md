@@ -1,6 +1,6 @@
 # Visitekaartje van Boudewijn Bout
 
-## Beschrijving
+## 📄 Beschrijving
 
 U bevindt zich nu in de repository van mijn visitekaartje. Dit visitekaartje is gemaakt met HTML, CSS en JavaScript. Ik maakte dit visitekaartje tijdens met opleiding op de HvA: Front-End Design & Development.
 
